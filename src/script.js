@@ -1,8 +1,6 @@
 import { postGame, getGame } from './operation.js';
 import './style.css';
 
-
-
 const scoresEl = document.querySelector('.scores');
 const nameEl = document.querySelector('.name');
 const scoreEl = document.querySelector('.score');
